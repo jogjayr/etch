@@ -8,7 +8,7 @@ I wanted to try out the [HTML 5 Device Orientation and Motion APIs](http://www.h
 
 ## How do I use it? ##
 
-Go to [jogjayr.github.io/etch](jogjayr.github.io/etch) and type something. Then shake your device to make whatever you typed fall down. Known to work with the following:
+Go to [jogjayr.github.io/etch](http://jogjayr.github.io/etch) and type something. Then shake your device to make whatever you typed fall down. Known to work with the following:
 
 * Macbooks (Air, Pro etc.), that mostly have a built in accelerometer or gyroscope (even works on my 2008 Macbook)
 * Smartphones & tablets with gyroscopes
