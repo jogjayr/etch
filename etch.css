@@ -1,0 +1,19 @@
+textarea, textarea:focus {
+	border:none;
+	outline:none;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 2em;
+}
+.span_word {
+	display: inline-block;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 2em;
+}
+.falldown_animation {
+	margin-top:5000px;
+	-webkit-transition: margin 2.25s ease-in-out;
+	   -moz-transition: margin 2.25s ease-in-out;
+	    -ms-transition: margin 2.25s ease-in-out;
+	     -o-transition: margin 2.25s ease-in-out;
+	        transition: margin 2.25s ease-in-out;
+}
